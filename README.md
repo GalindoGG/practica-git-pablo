@@ -1,9 +1,11 @@
 # practica-git-pablo
 
 
-## Nombre
+### Nombre
 
 Pablo
+
+### Descripción
 
 Este repositorio es utilizado como una practica para aprender el funcionamiento y los comandos de Git junto a GitHub
 
